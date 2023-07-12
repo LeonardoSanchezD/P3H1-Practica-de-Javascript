@@ -19,10 +19,10 @@ console.log(publicPath);
 
 // Configuración de conexión a la base de datos
 const pool = new Pool({
-    user: 'postgres',
-    host: 'localhost',
-    database: 'User',
-    password: '0706277712',
+    user: 'nabgvtfo',
+    host: 'stampy.db.elephantsql.com',
+    database: 'nabgvtfo',
+    password: 'RhAIz42z-9hcIn1KrAzoYMepb7aVxNRX',
     port: 5432,
 });
 
